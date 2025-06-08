@@ -542,7 +542,7 @@ woo-ggum-da/
 
 | 히어로 페이지                                                                             |
 | ----------------------------------------------------------------------------------------- |
-| ![히어로페이지](profile/readme/gif/heropage.gif) |
+| ![히어로페이지](/profile/readme/gif/heropage.gif) |
 
 <br>
 
@@ -560,7 +560,7 @@ woo-ggum-da/
 
 | 메인 별자리 페이지                                                                                      |
 | ------------------------------------------------------------------------------------------------------- |
-| ![consultant_children](profile/readme/gif/mainpage.gif) |
+| ![consultant_children](/profile/readme/gif/mainpage.gif) |
 
 <br>
 
@@ -570,15 +570,15 @@ woo-ggum-da/
 
 | 일기생성완료 알림                                                                                        |
 | ---------------------------------------------------------------------------------------------------- |
-| ![consultant_schdl](profile/readme/gif/complete_diary_toast.png) |
+| ![consultant_schdl](/profile/readme/gif/complete_diary_toast.png) |
 
 | 일기 AI영상, 꿈일기, 꿈 해몽 보기                                                                    |
 | ---------------------------------------------------------------------------------------------------- |
-| ![consultant_schdl](/readme/gif/일기생성완료_영상확인.gif) |
+| ![consultant_schdl](/profile/readme/gif/일기생성완료_영상확인.gif) |
 
 | 일기 작성하기                                                                                        |
 | ---------------------------------------------------------------------------------------------------- |
-| ![consultant_schdl](/readme/gif/일기생성.gif) |
+| ![consultant_schdl](/profile/readme/gif/일기생성.gif) |
 
 <br>
 
@@ -587,7 +587,7 @@ woo-ggum-da/
 
 | 우주선 페이지 이동                                    |
 | ------------------------------------------------------------------------------------------------ |
-| ![우주선 진입](/readme/gif/우주선진입.gif) |
+| ![우주선 진입](/profile/readme/gif/우주선진입.gif) |
 
 <br>
 
@@ -596,7 +596,7 @@ woo-ggum-da/
 
 | 꿈 대시보드 페이지                                                                             |
 | ---------------------------------------------------------------------------------------------- |
-| ![parent_schdl](/readme/gif/꿈대시보드.gif) |
+| ![parent_schdl](/profile/readme/gif/꿈대시보드.gif) |
 
 <br>
 
@@ -605,7 +605,7 @@ woo-ggum-da/
 
 | 행운번호 뽑기 페이지          |
 | ----------------------------- |
-| ![parent_schdl](/readme/gif/행운번호뽑기.gif) |
+| ![parent_schdl](/profile/readme/gif/행운번호뽑기.gif) |
 
 <br>
 
@@ -614,7 +614,7 @@ woo-ggum-da/
 
 | 오늘의 운세 페이지              |
 | ------------------------------- |
-| ![parent_schdl](/readme/gif/오늘의운세.gif) |
+| ![parent_schdl](/profile/readme/gif/오늘의운세.gif) |
 
 <br>
 
@@ -623,7 +623,7 @@ woo-ggum-da/
 
 | 방명록 모달                             |
 | --------------------------------------- |
-| ![parent_schdl](/readme/gif/방명록.gif)|
+| ![parent_schdl](/profile/readme/gif/방명록.gif)|
 
 <br>
 
@@ -633,11 +633,11 @@ woo-ggum-da/
 
 | 유저검색 모달                           |
 | --------------------------------------- |
-| ![parent_schdl](/readme/gif/유저검색.gif) |
+| ![parent_schdl](/profile/readme/gif/유저검색.gif) |
 
 | 일기검색 모달                           |
 | --------------------------------------- |
-| ![parent_schdl](/readme/gif/일기검색.gif) |
+| ![parent_schdl](/profile/readme/gif/일기검색.gif) |
 
 <br>
 
@@ -646,7 +646,7 @@ woo-ggum-da/
 
 | 블랙홀 페이지                                                                             |
 | ----------------------------------------------------------------------------------------- |
-| ![parent_schdl](/readme/gif/블랙홀.gif) |
+| ![parent_schdl](/profile/readme/gif/블랙홀.gif) |
 
 <br>
 
